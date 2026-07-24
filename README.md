@@ -216,4 +216,4 @@ customer_churn_powerbi/
 
 ## Data Source & License
 - Dataset: [Kaggle — Predict the Churn Risk Rate](https://www.kaggle.com/datasets/undersc0re/predict-the-churn-risk-rate). Refer to the Kaggle listing for the dataset's own usage terms.
-- Project code, report design, and documentation in this repository: [MIT License](LICENSE).
+- Project code, report design, and documentation in this repository: [MIT License](LICENSE.md).
