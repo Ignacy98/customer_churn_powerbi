@@ -5,6 +5,7 @@ An interactive 3-page Power BI dashboard identifying churn drivers and retention
 ![Page 1 – Churn Overview](assets/screenshots/page1_churn_overview.jpg)
 
 > 🎥 **Demo GIF:** Report interactivity (page navigation, filter pane, slicers) isn't fully conveyed by static screenshots. A short walkthrough GIF/video is introduced below
+> 
 >  ![Report walkthrough](assets/demo/report_walkthrough.gif)
 
 ## Table of Contents
